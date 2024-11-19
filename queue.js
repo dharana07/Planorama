@@ -1,4 +1,4 @@
-const projectColors = {
+var projectColors = {
         'BAT Sweden - Rollout': '#4CAF50',
         'Beiersdorf DE Mass - Rollout': '#2196F3',
         'Beiersdorf Spain - RollOut': '#9C27B0',
@@ -74,7 +74,7 @@ const projectColors = {
         'Unilever Portugal': '#4CAF50',
         'Unilever Spain - Vincle - Prod': '#2196F3'
     };
-    const caMapping = {
+    var caMapping = {
         '5a16e4ab2522f722e44a89fc': 'BAT Sweden - Rollout',
         '5c5ac4250e4ea80001c66597': 'Beiersdorf DE Mass - Rollout',
         '5c8fa69ac62e5e0001f87434': 'Beiersdorf Italy - Rollout',
@@ -175,7 +175,7 @@ const projectColors = {
         '5511acb355c467fd66faab3a': 'Unilever Sweden'
     };
 
-    const operatorGroups = {
+    var operatorGroups = {
         //online
         group1: [
             "64b9f0b4fb8ac2000791bdf5", "64f9a5ce497aae00072272d9", "63b3efa4404b850007958a15", "63b3e957cbeb9e00077e0b00", "63b3ec1c1c479800078b30a9", "65e82d974762c6000828f9f3",
