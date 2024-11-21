@@ -1,6 +1,4 @@
-    };
-
-    const operatorGroups = {
+   const operatorGroups = {
         //online
         group1: [
             "64b9f0b4fb8ac2000791bdf5", "64f9a5ce497aae00072272d9", "63b3efa4404b850007958a15", "63b3e957cbeb9e00077e0b00", "63b3ec1c1c479800078b30a9", "65e82d974762c6000828f9f3",
@@ -260,3 +258,4 @@ const projectColors = {
         '5a993e68d004195545c693dc': 'Unilever Spain - Vincle - Prod',
         '5511acb355c467fd66faab3a': 'Unilever Sweden'
 
+    };
