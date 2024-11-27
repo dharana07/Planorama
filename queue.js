@@ -144,8 +144,6 @@ const projectColors = {
         'Pr Portugal - Rollout': '#FFC107',
         'Procter & Gamble - EMEA - FRA': '#2196F3',
         'PR Spain': '#2196F3',
-        'Procter & Gamble - EMEA - TR': '#FF5722',
-        'Procter & Gamble - EMEA - UK': '#607D8B',
         'Schwartau DE - Rollout': '#9C27B0',
         'Unilever AUS - Rollout': '#00BCD4',
         'Unilever Belgium - RollOut': '#8BC34A',
