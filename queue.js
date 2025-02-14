@@ -84,7 +84,6 @@ const projectColors = {
         'Coty Spain Luxury - Rollout': '#009688',
         'Damm Spain - Pilot': '#CDDC39',
         'Danone JP - Rollout': '#673AB7',
-        'FactPharma - Pilot': '#FFC107',
         'Ferrero ES - Rollout': '#F44336',
         'Fleury Michon - Rollout': '#4CAF50',
         'FrieslandCampina Greece - Rollout': '#2196F3',
