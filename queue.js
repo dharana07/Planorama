@@ -116,7 +116,6 @@ const projectColors = {
         'P&G Kenya - Rollout': '#607D8B',
         'P&G Kuwait - Rollout': '#E91E63',
         'P&G Lebanon - Rollout': '#00BCD4',
-        'P&G Malaysia': '#8BC34A',
         'P&G Multi Spain': '#009688',
         'P&G Nigeria - Rollout': '#CDDC39',
         'P&G Oman - Rollout': '#673AB7',
