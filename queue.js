@@ -130,7 +130,6 @@ const projectColors = {
         'P&G Nigeria - Rollout': '#CDDC39',
         'P&G Oman - Rollout': '#673AB7',
         'P&G Pakistan': '#FFC107',
-        'P&G Poland - Rollout': '#4CAF50',
         'P&G Qatar - Rollout': '#9C27B0',
         'P&G Singapore': '#FF5722',
         'P&G Slovakia - Rollout': '#607D8B',
