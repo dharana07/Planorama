@@ -70,6 +70,12 @@ const operatorGroups = {
         group9: [
             "63ca236e0a829f00077414cd", "63cab0b1ec83650009475dcc", "63cab50670aec800070c3050"
 
+        ],
+        group10: [
+            "63a26d921c479800077ab7a9", "63b3edc0cbeb9e00077e1539", "66c2ed57726c7800072b59dd",  
+"65adf70a85ac1900073fb30c", "64f9a87d9744b6000789aaab", "638834f0f8c54d00084818ec"
+
+
         ]
     };
 
