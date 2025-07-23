@@ -102,7 +102,6 @@ const projectColors = {
         'Mondelez SE - Rollout': '#E91E63',
         'Mondelez Spain - Rollout': '#5bab47',
         'Nestle Portugal': '#4CAF50',
-        'P&G Australia': '#009688',
         'P&G Bahrain - Rollout': '#CDDC39',
         'p&g baltics - rollout': '#673AB7',
         'P&G Croatia - Rollout': '#FFC107',
