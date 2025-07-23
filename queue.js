@@ -88,7 +88,6 @@ const projectColors = {
         'Hewlett Packard FR - Pilot': '#795548',
         'JDE Greece - Rollout': '#E91E63',
         'JDE Spain - Roll out': '#00BCD4',
-        'JTI CZ - Pilot': '#8BC34A',
         'JTI FR - Pilot': '#3F51B5',
         'JTI RU - Rollout': '#CDDC39',
         'JTI_Spain_HoReCa': '#FFC107',
